@@ -1,4 +1,6 @@
 # Image-Segmentation-Using-Thresholding-Techniques-in-OpenCV
+## NAME: SHARVESHWARAN M
+## REG.NO: 212224240150
 # Aim
 To segment an image using Global Thresholding, Adaptive Thresholding, and Otsu's Thresholding techniques using Python and OpenCV.
 
