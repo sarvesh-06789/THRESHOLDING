@@ -50,10 +50,6 @@ Step 7:
 Compare the results obtained from Global, Adaptive, and Otsu's thresholding methods.
 
 # Program
-Developed By
-Name: Pugazhenthi S
-
-Register No: 212224240120
 
 ```
 import cv2
